@@ -30,18 +30,18 @@ This study specifically focuses on Year 2 students, as this year represents a ke
 
 #### 🔶 Multiple Regression Models
 
-                                                Total Regression Model  
+                                              Total Regression Model  
 ![Screenshot 2024-10-25 182118](https://github.com/user-attachments/assets/555fc3f7-d115-4432-a668-b30a521c212e)
 
-                                           Regression Between Group Means  
+                                         Regression Between Group Means  
 ![Screenshot 2024-10-22 181052](https://github.com/user-attachments/assets/aae087df-2eec-4395-b902-869e8d955837)  
 ![Screenshot 2024-10-22 181520](https://github.com/user-attachments/assets/36804e04-282d-453d-bd38-45ec26533d47)
 
-                                                Regression Within Group 
+                                              Regression Within Group 
 ![Screenshot 2024-10-22 181744](https://github.com/user-attachments/assets/b4b9df66-40e2-4944-97f6-1833b3961c91)  
 ![Screenshot 2024-10-22 181756](https://github.com/user-attachments/assets/217e72fb-7f37-424e-8110-ffa0a1a5fd3f)
 
-                                                Multilevel Regression
+                                            Multilevel Regression
 ![Screenshot 2024-10-22 181217](https://github.com/user-attachments/assets/31f2794c-83b1-4319-a3c6-a1c6076166ff)  
 ![Screenshot 2024-10-22 182012](https://github.com/user-attachments/assets/d786b301-814a-43c5-afac-2cfd7dcfb5db)
 
